@@ -23,7 +23,7 @@ Through this project, I'm learning to:
 
 ---
 
-## 🚀 Project Structure Highlights
+## 🚀 Project Structure Highlights  
 
 - **pages app** — Handles static pages like Home and About.
 - **posts app** — Handles user-created posts (dynamic content).
